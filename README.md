@@ -1,3 +1,3 @@
 # fork-me-please
 
-A training repo.
+Hi! Please fork this repo. 
