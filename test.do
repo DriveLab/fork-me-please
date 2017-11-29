@@ -52,6 +52,8 @@ dummieslab town_id
 
 // Add your favourite (or any other) command below
 kdensity   town_id
+tab x_var, missing // Lizzie
+
 
 // Save data
 save "$data_output_dir/name_of_dataset", replace
