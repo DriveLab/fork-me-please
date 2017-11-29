@@ -49,6 +49,8 @@ sum _all
 
 // Add your favourite (or any other) command below
 sum town_id
+kdensity   town_id
+tab x_var, missing // Lizzie
 
 // Save data
 save "$data_output_dir/name_of_dataset", replace
