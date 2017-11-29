@@ -46,14 +46,11 @@ mvdecode var_*, mv(-999=.)
 sum _all
 
 
-// Generate dummies for town_id (uses -dummieslab- from SSC.)
-dummieslab town_id
-
 
 // Add your favourite (or any other) command below
+sum town_id
 kdensity   town_id
 tab x_var, missing // Lizzie
-
 
 // Save data
 save "$data_output_dir/name_of_dataset", replace
