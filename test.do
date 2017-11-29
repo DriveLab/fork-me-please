@@ -51,7 +51,7 @@ dummieslab town_id
 
 
 // Add your favourite (or any other) command below
-
+kdensity   town_id
 tab x_var, missing // Lizzie
 
 
