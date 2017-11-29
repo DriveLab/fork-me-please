@@ -48,6 +48,7 @@ sum _all
 
 
 // Add your favourite (or any other) command below
+duplicates list 
 sum town_id
 kdensity   town_id
 tab x_var, missing // Lizzie
